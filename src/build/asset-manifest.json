@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9f1045a.chunk.css",
+    "main.js": "/static/js/main.f1942fe0.chunk.js",
+    "main.js.map": "/static/js/main.f1942fe0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c800e20.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c800e20.js.map",
+    "static/js/2.b2ff6e25.chunk.js": "/static/js/2.b2ff6e25.chunk.js",
+    "static/js/2.b2ff6e25.chunk.js.map": "/static/js/2.b2ff6e25.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6e6d5f036b691e56a290dc4161e18df1.js": "/precache-manifest.6e6d5f036b691e56a290dc4161e18df1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d9f1045a.chunk.css.map": "/static/css/main.d9f1045a.chunk.css.map",
+    "static/js/2.b2ff6e25.chunk.js.LICENSE": "/static/js/2.b2ff6e25.chunk.js.LICENSE",
+    "static/media/CourierPrime-Bold.ttf": "/static/media/CourierPrime-Bold.696e70ec.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c8b6e083.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c800e20.js",
+    "static/js/2.b2ff6e25.chunk.js",
+    "static/css/main.d9f1045a.chunk.css",
+    "static/js/main.f1942fe0.chunk.js"
+  ]
+}
